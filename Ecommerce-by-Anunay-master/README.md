@@ -21,5 +21,3 @@ Front-end for an e-commerce clothes selling website.
 
 Hope this may help in your project someway...!
 
-Thsi repo has been copied from 
-https://github.com/anubhav199/Responsive-Ecommerce-Website
